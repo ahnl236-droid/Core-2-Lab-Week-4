@@ -8,6 +8,7 @@ h1 {
 body {
     background-color: bisque;
     animation: animation 2s ease-in-out;
+}
 
 @keyframes animation {
     from {opacity: 0;}
