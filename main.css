@@ -1,8 +1,11 @@
-
-.vday image {
+h1 {
+    color: rgb(129, 0, 0);
+    text-align: center;
+}
+.vday-image {
     width: 300px;
 }
-.body {
+body {
     background-color: bisque;
     animation: animation 2s ease-in-out;
 }
