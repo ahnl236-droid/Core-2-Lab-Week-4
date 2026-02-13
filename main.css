@@ -1,0 +1,7 @@
+.vday image {
+    width: 300px;
+}
+@keyframes animation {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
